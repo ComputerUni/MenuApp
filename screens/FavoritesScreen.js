@@ -54,14 +54,10 @@ const styles = StyleSheet.create({
     marginHorizontal: 16,
     marginVertical: 10,
     borderRadius: 20,
-
-    // iOS shadow
     shadowColor: "#000",
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.08,
     shadowRadius: 8,
-
-    // Android shadow
     elevation: 4,
   },
 
